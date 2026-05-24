@@ -1,0 +1,17 @@
+[project]
+name = "lielearning"
+version = "0.1.0"
+description = "Examples for Youtube lie groups learning in https://www.youtube.com/watch?v=xYMKfsnJ85c"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache 2.0"}
+authors = [
+    {name = "Pau Carré Cardona", email = "pau.carre@gmail.com"},
+]
+dependencies = [
+    "genesis-world",
+    "pypose>=0.9.5",
+]
+
+[tool.uv.sources]
+genesis-world = { git = "https://github.com/Genesis-Embodied-AI/genesis-world" }
