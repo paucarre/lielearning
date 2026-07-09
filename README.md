@@ -2,7 +2,9 @@
 
 This repository provides simple examples of using Lie Groups and Lie Algebras in robotics. 
 
-It serves as supporting material for the video **[An informal introduction to Lie Groups for robotics](https://www.youtube.com/watch?v=xYMKfsnJ85c)**.
+It serves as supporting material for the video **[Lie Groups for Robotics solving problems with Code](https://www.youtube.com/watch?v=BcorPOt4-Ao)**.
+
+Slides are in [media/slides.pdf](media/slides.pdf)
 
 The repository contains two scripts:
 - One for **pose interpolation**
